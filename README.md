@@ -114,4 +114,5 @@ Symptom text analysis (NLP)
 Doctor & hospital integration
 Mobile application version
 
-
+Web Link:
+https://ai-based-early-health-risk-prediction-system.streamlit.app/
